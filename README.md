@@ -1,2 +1,2 @@
 # demo
-This is for learing github by Naina
+This is for learing github by Naina Gupta
